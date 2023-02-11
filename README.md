@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/86963296/218271135-ea3bd612-41e7-4a7a-95e9-7e34f44829be.jpg" width="120">
+<img align="right" src="https://user-images.githubusercontent.com/86963296/218271135-ea3bd612-41e7-4a7a-95e9-7e34f44829be.jpg" width="170">
 
 
 # IEM Master Thesis
@@ -7,14 +7,26 @@
 industry challenges!**
 
 This repository includes the raw and treated data for the accomplishment of my dissertation, along with the Jupyter Notebook files and developed code.
-In addition, the two final resulting documents are available:
+
+In addition, the final resulting documents are available and include:
  1. Full Dissertation
  2. Extended Abstract (10 pages)
 
- Are you looking for a design or research project idea with real industry relevance? 
-This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
+ ---
 
-## How to participate
+
+## Abstract
+
+This work aimed to identify a set of Key Performance Indicators suggestive of team success and also identify metrics that provide insights into the distinctions between the Big-5 European Football Leagues. Additionally, assess the performance of several classifiers in estimating the final ranking of teams for the 2021/22 season according to the three categories of success.
+
+Data from the FBREF website respecting the Big-5 leagues’ teams during a period of four consecutive seasons (2017/18 - 2020/21) was considered and analysed via Principal Components Analysis, Cluster Analysis and classification methods.
+
+Significant differences were obtained between high-ranked teams and the remaining categories in terms of higher ball possession, presence in the attacking third of the pitch and higher number of passes leading to goal and shot attempts. Low-ranked teams displayed salient patterns in defensive statistics, despite some cases where these teams purposefully adopt a low-intermediate block as an attempt to explore the space behind the defensive line through counter-attack. Results from the same study suggest a higher strong overall presence in all areas of the pitch for English and German teams. Additionally, Italian Serie A clubs showed a prominent use of the defensive section of the field, while findings also suggest that together with Italian clubs, the Spanish teams committed the highest amount of infringements and received the highest amount of yellow and red cards.
+
+Finally, results from the classification methods showed that ensemble techniques achieved the best results, with XGBoost leading with an accuracy of 86.7%.
+
+ ---
+
 Make the results of your work <strong>[open and accessible](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/submission%20instructions.md)</strong> to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> and we will send you more information about the project and recognition awards.
 
 If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u)</strong>.
