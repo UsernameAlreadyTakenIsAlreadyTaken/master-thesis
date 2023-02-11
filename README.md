@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/86963296/218271135-ea3bd612-41e7-4a7a-95e9-7e34f44829be.jpg" width="170">
+<img align="right" src="https://user-images.githubusercontent.com/86963296/218271135-ea3bd612-41e7-4a7a-95e9-7e34f44829be.jpg" width="140">
 
 
 # IEM Master Thesis
