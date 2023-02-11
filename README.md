@@ -1,14 +1,17 @@
 <img align="right" src="https://user-images.githubusercontent.com/86963296/218271135-ea3bd612-41e7-4a7a-95e9-7e34f44829be.jpg" width="120">
 
-![IST_A_RGB_POS](https://user-images.githubusercontent.com/86963296/218271135-ea3bd612-41e7-4a7a-95e9-7e34f44829be.jpg)
 
-
-# MathWorks Excellence in Innovation Projects
+# IEM Master Thesis
 
 **Contribute to the progress of engineering and science by solving key
 industry challenges!**
 
-Are you looking for a design or research project idea with real industry relevance? 
+This repository includes the raw and treated data for the accomplishment of my dissertation, along with the Jupyter Notebook files and developed code.
+In addition, the two final resulting documents are available:
+ 1. Full Dissertation
+ 2. Extended Abstract (10 pages)
+
+ Are you looking for a design or research project idea with real industry relevance? 
 This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
 
 ## How to participate
