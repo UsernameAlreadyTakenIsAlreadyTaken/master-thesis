@@ -1,5 +1,8 @@
 <img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
 
+![IST_A_RGB_POS](https://user-images.githubusercontent.com/86963296/218271135-ea3bd612-41e7-4a7a-95e9-7e34f44829be.jpg)
+
+
 # MathWorks Excellence in Innovation Projects
 
 **Contribute to the progress of engineering and science by solving key
